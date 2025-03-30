@@ -39,7 +39,7 @@
 
 ## 如何运行  
 1. 硬件按上述连接方式接线。  
-2. 下载代码，打开 `arduino/data_collector.ino`。  
+2. 下载代码，打开******。  
 3. 修改WiFi账号密码及Thingspeak API Key。  
 4. 上传至Arduino，打开串口监视器查看数据。  
 
